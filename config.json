@@ -1,0 +1,10 @@
+{
+  "pipelines": {
+    "student1_p1": {
+      "threshold": 100
+    },
+    "student2_p1": {
+      "threshold": 120
+    }
+  }
+}
